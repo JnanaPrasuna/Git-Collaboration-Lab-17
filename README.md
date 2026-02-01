@@ -4,11 +4,9 @@
 
 
 
-\## Collaborator Details
+Collaborator Details
 
-Name: Padilam Jayasri 
+Name: Padilam Jayasri
 
 Roll No: 23PA1A05I3
-
-
 
