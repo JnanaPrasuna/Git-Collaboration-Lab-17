@@ -1,4 +1,4 @@
-\- Task 2: README update by Collaborator
+\- Task 2: README update by Owner
 
 
 
